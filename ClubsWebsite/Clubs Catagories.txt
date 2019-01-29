@@ -1,0 +1,133 @@
+__Community Service__
+	earthAction
+	futureFarmers
+	gayStraight
+	interactClub
+	keyClub
+	honorSociety
+	honorSocietyTech
+	projectSearch
+	redCross
+	youthToYouth
+
+
+__Academic Comp__
+	chessClub
+	**Cyberpatriot
+	graniteState
+	mathTeam
+	**NJROTC
+	**Shockwave Robotics
+
+
+
+___Performance (Arts & Leadership)___
+	Arts:
+		artClub
+		dramaClub
+		--Language--
+			frenchClub
+			latinClub
+			spanishClub
+		--Music--
+			colorGuard
+			jazzBand
+			percussion
+			soundwaves
+			varietyShow
+		photography
+		theTide
+		gamingClub
+
+	Leadership:
+		athleticLeaderShip
+		--Class Officers--
+			class2019
+			class2020
+			class2021
+			class2022
+		**Student Government
+
+
+
+___Sports___
+	Fall:
+		**Cross Country
+			Boys
+			Girls
+			COED
+		fieldHockey
+			Girls
+		football
+			Boys
+		**Golf
+			Boys
+			Girls
+			COED
+		soccer
+			Boys
+			Girls
+			COED
+			Unfied
+
+	Winter:
+		**Alpine Skiing
+			Boys
+			Girls
+			COED
+		basketball
+			Boys
+			Girls
+			COED
+			Unified
+		bowling
+			COED
+		**Gymnastics
+			Girls
+		iceHockey
+			Boys
+			Girls
+		**Indoor Track
+			Boys
+			Girls
+			COED
+		skiTeam
+			Boys
+			Girls
+			COED
+		swimming
+			Boys
+			Girls
+			COED
+		**Winter Track
+			COED
+		
+		
+	Spring:
+		baseball
+			Boys
+		lacrosse
+			Boys
+			Girls
+		**Outdoor Track
+			Boys
+			Girls
+			COED
+		softball
+			Girls
+		**Spring Track
+			COED
+		tennis
+			Boys
+			Girls
+			COED
+		**Unified Volleyball
+	
+	All Year:
+		Cheer
+			Girls
+			COED
+		Volleyball
+			Boys
+			Girls
+			COED

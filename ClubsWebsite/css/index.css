@@ -1,0 +1,68 @@
+h1 {
+    color: black;
+}
+
+html {
+    height: 145%;
+    background-image: linear-gradient(to bottom, white, green);
+	
+}
+
+ul {
+	list-style: none;
+}
+
+.clublist {
+	float: left;
+}
+
+.bodyText{
+    background-color: #efefef;
+    height: 95%;
+    width: 50%;
+    border-style: transparent;
+    border-width: 2px;
+    margin-left: 25%;
+	margin-top: 1%;
+	text-align: left;
+}
+
+.class{
+	border-style: solid;
+    border-width: 2px;
+	border-color: #003d00;
+    border-radius: 10px;
+	margin-left: 15%;
+	width: 70%;
+	height: 10%;
+	font-size: 500%;
+	text-align: center;
+	font-family: Arial, Helvetica, serif;
+}
+
+.navBar{
+	border-style: solid;
+    border-width: 2px;
+	border-color: #003d00;
+	border-radius: 10px;
+    margin-left: 15%;
+	margin-top: -3%;
+	width: 70%;
+	height: 2%;
+	font-size: 100%;
+	text-align: center;
+	font-family: Helvetica, Arial, serif;
+}
+
+.desc{
+    height: 1060px;
+    width: 50%;
+    border-style: solid;
+    border-width: 2px;
+	border-color: #003d00;
+	border-radius: 10px;
+	margin-top: 1%;
+	font-family: Helvetica, Arial, serif;
+	float: right;
+	margin-right: 10%;
+}
