@@ -2,9 +2,10 @@
 
 .center {
   text-align: center;
-  background-color: #b3b1b1;
-  padding-left: 20px;
-  padding-right:20px;
+  background-color: #cacaca;
+  height: 100%;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 .webtitle{
   color: black;
@@ -1000,6 +1001,7 @@ header {
   background-color: #e6e6e6;
   min-height: calc(100vh - 100px);
   padding: 2em 5%;
+  padding-top: 0px;
   line-height: 2;
 }
 
