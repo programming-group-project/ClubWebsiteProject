@@ -4,9 +4,18 @@
   text-align: center;
   background-color: #cacaca;
   height: 100%;
+  width: 50%;
+
+}
+
+.Dates {
+  float: right;
+  background-color: #cacaca;
   margin-left: 10%;
   margin-right: 10%;
+
 }
+
 .webtitle{
   color: black;
   text-align: center;
