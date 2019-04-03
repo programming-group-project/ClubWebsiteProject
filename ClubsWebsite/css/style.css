@@ -4,17 +4,32 @@
   text-align: center;
   background-color: #cacaca;
   height: 100%;
-  width: 50%;
-
-}
-
-.Dates {
+  width: 75%;
   float: right;
-  background-color: #cacaca;
-  margin-left: 10%;
-  margin-right: 10%;
+  position: relative;
+  
 
 }
+
+.dates {
+  width: 100px;
+}
+
+.rightbar {
+  position: absolute;
+  width: 500px;
+}
+
+.right {
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: -1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  right: 0;
+  width: 500px;
+  background-color: #111; /* Black */
+  padding-top: 20px;
+}
+
 
 .webtitle{
   color: black;
