@@ -4,10 +4,10 @@
   text-align: center;
   background-color: #cacaca;
   height: 100%;
-  margin-left: 10%;
-  margin-right: 10%;
-  padding-right: 5%;
-  padding-left: 5%;
+  margin-left: 28%;
+  margin-right: 5%;
+  padding-right: 2%;
+  padding-left: 2%;
 }
 .webtitle{
   color: black;
@@ -16,6 +16,25 @@
   font-weight: bold;
   float: center;
   padding-top:30px;
+}
+.dates {
+  width: 100px;
+}
+
+.rightbar {
+  position: absolute;
+  float: left;
+  width: 500px;
+}
+
+.right {
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: -1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  right: 0;
+  width: 500px;
+  background-color: #111; /* Black */
+  padding-top: 20px;
 }
 /* -------------------------------- 
 
@@ -1001,7 +1020,7 @@ header {
 
 .cd-main-content {
   background-image: linear-gradient(to bottom, #ffffff, #003300);
-  min-height: calc(100vh - 100px);
+  min-height: calc(100vh + 100px);
   padding: 2em 5%;
   padding-top: 0px;
   line-height: 2;
