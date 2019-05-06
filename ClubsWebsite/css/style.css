@@ -4,19 +4,27 @@
   text-align: center;
   background-color: #cacaca;
   height: 100%;
-  width: 75%;
-  float: right;
-  position: relative;
-  
+  margin-left: 28%;
+  margin-right: 5%;
+  padding-right: 2%;
+  padding-left: 2%;
 
 }
 
+
+.webtitle{
+  color: black;
+  float:right;
+  width: 80%;
+  height: 100%;
+}
 .dates {
   width: 100px;
 }
 
 .rightbar {
   position: absolute;
+  float: left;
   width: 500px;
 }
 
@@ -28,16 +36,6 @@
   width: 500px;
   background-color: #111; /* Black */
   padding-top: 20px;
-}
-
-
-.webtitle{
-  color: black;
-  text-align: center;
-  font-size: 2em;
-  font-weight: bold;
-  float: center;
-  padding-top:30px;
 }
 /* -------------------------------- 
 
@@ -93,6 +91,10 @@ input[type=text]::-ms-reveal {
   height: 0;
 }
 
+/*.contact{
+  padding-top: 3%;
+}*/
+
 /* -------------------------------- 
 
 Main Components 
@@ -100,7 +102,7 @@ Main Components
 -------------------------------- */
 header {
   height: 150px;
-  background: #ffffff;
+  background: #003300;
 }
 
 .cd-dropdown-wrapper {
@@ -108,6 +110,7 @@ header {
   position: relative;
   height: 40px;
   margin: 30px 0 0 5%;
+  margin-top: 5%;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -117,12 +120,13 @@ header {
   position: relative;
   padding: 0 36px 0 20px;
   line-height: 40px;
-  background-color: #003300;
-  color: #ffffff;
+  background-color: #ffffff;
+  color: #003300;
   border-radius: 3px;
+  /*margin-top: 50%*/
 }
 .no-touch .cd-dropdown-trigger:hover {
-  background-color: #004d00;
+  background-color: #f2f2f2;
 }
 .cd-dropdown-trigger::before, .cd-dropdown-trigger::after {
   /* this is the arrow inside the dropdown trigger*/
@@ -132,7 +136,7 @@ header {
   margin-top: -1px;
   height: 2px;
   width: 9px;
-  background: #ffffff;
+  background: #000000;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   -webkit-transition: width 0.3s, -webkit-transform 0.3s;
@@ -160,10 +164,10 @@ header {
     font-size: 1.5rem;
   }
   .cd-dropdown-trigger.dropdown-is-active {
-    background-color: #3f8654;
+    background-color: #d9d9d9;
   }
   .no-touch .cd-dropdown-trigger.dropdown-is-active:hover {
-    background-color: #47975f;
+    background-color: #cccccc;
   }
   .cd-dropdown-trigger.dropdown-is-active::before, .cd-dropdown-trigger.dropdown-is-active::after {
     /* transform the arrow into a 'X' */
@@ -1022,10 +1026,10 @@ header {
 }
 
 .cd-main-content {
-  background-image: linear-gradient(to bottom, #ffffff, #003300);
-  min-height: calc(100vh - 100px);
+  background-image: linear-gradient(to bottom, #003300, #ffffff);
+  min-height: calc(100vh + 100px);
   padding: 2em 5%;
-  padding-top: 0px;
+  padding-top: 1%;
   line-height: 2;
 }
 
@@ -1041,4 +1045,28 @@ header {
 
 .no-js .cd-dropdown-wrapper .cd-close {
   display: none;
+}
+
+.foot{
+  background-color: #f2f2f2;
+  height: 150px;
+  width: 100%;
+  border-top: 1px solid black;
+  text-align: center;
+}
+
+.foot_header{
+  padding-top: 10px;
+  padding-bottom: 20px;
+  font-size: 30px;
+}
+
+.foot_text{
+  padding-bottom: 1%;
+}
+
+.fb_logo{
+  height: 1.5%;
+  width: 1.5%;
+  padding-bottom: 0.5%;
 }
