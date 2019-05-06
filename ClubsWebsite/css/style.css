@@ -2,7 +2,8 @@
 
 .center {
   text-align: center;
-  background-color: #cacaca;
+  background-color: #ffffff;
+  border-radius: 25px;
   height: 100%;
   margin-left: 28%;
   margin-right: 5%;
