@@ -2,7 +2,8 @@
 
 .center {
   text-align: center;
-  background-color: #cacaca;
+  background-color: #ffffff;
+  border-radius: 25px;
   height: 100%;
   margin-left: 28%;
   margin-right: 5%;
@@ -1051,7 +1052,7 @@ header {
   background-color: #f2f2f2;
   height: 150px;
   width: 100%;
-  border-top: 1px solid black;
+  /*border-top: 1px solid black;*/
   text-align: center;
 }
 
